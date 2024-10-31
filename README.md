@@ -3,6 +3,8 @@
 ## Description
 The **Telecom Customer Service Dashboard** is a Power BI project developed to analyze and visualize key performance metrics related to customer service for a large telecom client. This project was completed as part of the **PwC Switzerland Power BI Job Simulation on Forage**, focusing on the client’s need to understand customer satisfaction and agent performance. The dashboard was created by independently replicating the provided solution design to learn from best practices in visualization and design.
 
+Check out the simulation here: https://www.theforage.com/simulations/pwc-ch/power-bi-cqxg
+
 ## Instructions
 This project was part of the **PwC Switzerland Power BI Job Simulation** program. While initial guidance was given on KPI selection, the dashboard was independently constructed by examining and adapting the example solution.
 
